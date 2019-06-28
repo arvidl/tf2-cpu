@@ -15,4 +15,5 @@ TF2-CPU   (should also work on the Mac)
 
 
 ## Install Jupyter kernel
+> pip install ipykernel
 > python -m ipykernel install --user --name tf2-cpu --display-name "TF2-CPU"
