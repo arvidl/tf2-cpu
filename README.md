@@ -4,7 +4,7 @@ TF2-CPU   (should also work on the Mac)
 
 ## Make a conda environment
 
-> conda create --name tf2-cpu
+> conda create --name tf2-cpu python=3.7
 
 ## Activate conda environment tf2-cpu
 > conda activate tf2-cpu
